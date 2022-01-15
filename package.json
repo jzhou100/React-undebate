@@ -57,7 +57,7 @@
     "log4js": "git+https://github.com/ddfridley/log4js-node.git#onbrowser",
     "log4js-extend": "^0.2.1",
     "log4js-node-mongodb": "^2.2.1",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "mongo-models": "^3.0.1",
     "mongodb": "^3.3.0-beta2",
     "nodemailer": "^6.3.0",
